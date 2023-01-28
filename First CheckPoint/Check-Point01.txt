@@ -1,0 +1,22 @@
+1_How does the web work : 
+
+*The client user a browser to connect to a server by using the webpage url on the browser which contains the domaine name
+the browser than check this domain name on the DNS (Domaine Name System) to the get the ip address of the webpage the client want to access
+the dns connect to the first server called the ResolverServer Which belongs to the ISP(internet service provider) than if the ISP_Server doesnt have it will send the browser
+to a higher level DNS called a root which theres only 32 of it around the world if a it doesnt have it as well it will check the TLD server (which generate .com .org...) if this one doesnt have it either 
+it will send it to the latest one which will be the authorated name server than it will send back the ip address to the The ResolverServer which will send it back to the browser so he can finally send 
+a request (HTTP Request) to the server of thewebpage he wanna access and get than the server will send the webpage back to the browser and the browser will send it back to the client 
+with Js compiled and the rest of UI like a text/html .
+
+
+2_To be A Web Developer : 
+There's two ways to become a WebDeveloper it's either you learn How to use a content management system which is the easiest way to make websites like (WordPress , Joomla, WIX...) Which will simplify 
+the task for you by giving some instructions to follow to make the user interface you want and also give you all the tools  required and some also give a ready scripted backend which helps you connect 
+your endpoints already given to your ready DataBase or the other way to make it which requires learning some important skills like frontend (Html , css , javascript) to make a user interface and make 
+functional and more Dynamic and enjoyable to use and also learning Backend which dived to two important thing which are the server using (pho .jquery ...) and DataBase which requires learning 
+either relational DataBase which requires learning (SQL...) which languages to manage your Relational DataBase and its own Data base management system like (MariaDB and Mysql...) and theres also none relationa database 
+or NoSQL which use (keywords . Graphs and docuemnts ) like (MongoDB . GraphQL . Redis...).
+
+3_Why i choosed web developement 
+
+well the main reason i choosed web developement is to creat my own projects and be creative and also a good introduction to my life into computer science !
